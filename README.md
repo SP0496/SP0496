@@ -8,8 +8,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=58A6FF&logo=github)
 ![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-success?style=for-the-badge&logo=briefcase&logoColor=white)
 
 </div>
@@ -202,7 +200,7 @@ A secure authentication system featuring JWT tokens, role-based authorization, r
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top" align="center">
+<td colspan="2" valign="top" align="center">
 
 ### 🎬 Movie Recommendation System
 
