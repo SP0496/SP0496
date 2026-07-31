@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Anadasu%20Satish&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20MERN%20Stack%20Developer%20%7C%20Java%20Developer&descAlignY=55&descSize=18&descColor=c9d1d9" width="100%"/>
@@ -96,31 +94,6 @@ console.log(satish.currentStatus);
 
 ### Cloud & Computing
 <img src="https://skillicons.dev/icons?i=aws" /> &nbsp;&nbsp; ☁️ **Cloud Computing Fundamentals — NPTEL Certified**
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## 📊 GitHub Statistics
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=440" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=8" width="90%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 
 </div>
 
@@ -229,24 +202,13 @@ A secure authentication system featuring JWT tokens, role-based authorization, r
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top" align="center">
 
 ### 🎬 Movie Recommendation System
 
 An AI-powered recommendation engine using collaborative filtering, content-based filtering, and hybrid recommendation techniques to deliver personalized suggestions.
 
 `Python` `Machine Learning` `Pandas` `NumPy` `Scikit-learn`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧱 Microservices Learning Project
-
-A backend application built with **Node.js microservices architecture**, featuring an API Gateway, Authentication Service, Product Service, Order Service, Docker, and MongoDB.
-
-`Node.js` `Express.js` `MongoDB` `Docker`
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
@@ -322,7 +284,4 @@ SETUP NOTES (delete this comment block before publishing):
    "output" branch and SVG referenced above.
 4. This README must live in a public repo named exactly the same as your GitHub
    username (a "profile README" repo) to render on your GitHub profile page.
-5. github-readme-stats, streak-stats, and activity-graph are hosted community
-   services — if any image fails to load, it usually means the demo server is
-   rate-limited; you can self-host them via their respective GitHub repos.
 -->
